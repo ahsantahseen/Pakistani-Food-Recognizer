@@ -26,6 +26,8 @@ most impressive forms of ANN architecture is that of the Convolutional Neural Ne
 primarily used to solve difficult image-driven pattern recognition tasks and with their precise yet simple
 architecture, offer a simplified method of getting started with ANNs.
 
+<img src="https://i.ibb.co/2SFvrSk/CNN.png" alt="CNN" border="0">
+
 The project heavily relies on a Convolutional Neural Network (CNN) for the tasks of detecting and
 recognizing food images. The model that has been opted is Efficient Net. CNN is a great approach to
 deep learning and with extensive research, deep learning seems to be a powerful technique for image
@@ -91,6 +93,9 @@ finalizing to 6 dishes we did test on 10 dishes but as explained above we faced 
 to predictions, there could be many reasons for this but however we had to narrow down to less dishes
 to get our model to predict precise and accurate. We trained our model on 20, 10 epochs on Google’s
 Collab platform which GPU’s power helped us train our model much faster and better.
+
+<img src="https://i.ibb.co/1XzLRz2/Whats-App-Image-2022-05-22-at-3-10-16-PM-1.jpg" alt="Whats-App-Image-2022-05-22-at-3-10-16-PM-1" border="0">
+<img src="https://i.ibb.co/7JR0Pmy/Whats-App-Image-2022-05-22-at-3-10-16-PM.jpg" alt="Whats-App-Image-2022-05-22-at-3-10-16-PM" border="0">
 
 We did manage to get 96% accuracy and 16% loss. To further test it we had been conducting tests in real
 time to see whether it predicts or not, however it does predict as we have expected.

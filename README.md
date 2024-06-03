@@ -1,4 +1,4 @@
-# Pakistani-Dish-Detection
+# Pakistani-Food-Recognizer
 Food Dish Detection based on Pakistani dishes
 
 Food logging is considered one of the most data-collecting activities that users do with their
